@@ -67,3 +67,6 @@ lib/
 include/
 local/
 pip-selfcheck.json
+
+# Emacs junk
+*~
